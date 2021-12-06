@@ -4,9 +4,10 @@ Downloader written in golang to download the public data files(RUC Paraguay) fro
 
 The downloader will download the public data files (RUC) and extract them into the specified destination directory.
 
+<br/>
+
 ## Usage
 
-<br/>
 
 ### From [source](https://github.com/bitebait/rucpy-downloader.git)
 
@@ -17,8 +18,6 @@ go run main.go -d "destination directory"
 ```
 
 ### From [release](https://github.com/bitebait/rucpy-downloader/releases)
-
-<br/>
 
 #### Windows (CMD)
 
@@ -31,6 +30,8 @@ rucdownloader.exe -d "destination directory"
 ```bash
 ./rucdownloader -d "destination directory"
 ```
+
+<br/>
 
 ## Contributing
 
